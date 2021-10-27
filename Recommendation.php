@@ -8,7 +8,9 @@
     
     <script src="Recommendation.js"></script>
     <style>
-        
+        body{
+            background-image: url("img/SL-121019-25870-21.jpg") ;
+        }
     </style>
 
    
@@ -23,13 +25,13 @@
     </div>
 
     <div >
-            <button  type="Submit"class=" RecommendedMovies" id="RecommendedMovies"  onclick="onMyclick();">Recommend Movies</button>
+            <button style="background-color: silver"  type="Submit"class=" RecommendedMovies" id="RecommendedMovies"  onclick="onMyclick();">Recommend Movies</button>
         
     </div>
     
     <main id="main"></main>
     <div class="logout">
-    <a style="background-color:blue;text-decoration:none; color:white; border:2px solid black; position:absolute;left:48%; top:40%"href="logout.php">Logout</a>
+    <a style=" background-color:orange;text-decoration:none; color:white; border:2px solid black; position:absolute;left:48%;padding: 0.5rem; top:40%"href="logout.php">Logout</a>
      </div>
 </body>
 </html>

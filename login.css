@@ -9,7 +9,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-image:url("IMAGES/SL-121019-25870-21.jpg");
+    background-image:url("img/SL-121019-25870-21.jpg");
     background-position: center;
     background-size: cover;
     display: flex;

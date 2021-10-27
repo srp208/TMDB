@@ -43,7 +43,7 @@ if (isset($_POST['submit'])) { // Check press or not Post Comment Button
 			.container{
 				background-color:white;
 			}
-			
+		
 	</style>
 
 	<title>Comment System in PHP - Pure Coding</title>

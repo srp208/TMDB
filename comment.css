@@ -14,7 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: #66a79c;
+    background: #9319b8;
 }
 
 .wrapper {
@@ -62,7 +62,7 @@ body {
     padding: .7rem 2rem;
     opacity: .8;
     color: #FFF;
-    background: #00b894;
+    background: #e4e70b;
     border: none;
     outline: none;
     border-radius: 3px;

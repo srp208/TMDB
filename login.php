@@ -52,6 +52,9 @@ if (isset($_POST['submit'])) {
 				background-color:white;
 			}
 			
+			body{
+            background-image: url("img/SL-121019-25870-21.jpg") ;
+        }
 	</style>
 
 

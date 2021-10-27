@@ -7,11 +7,19 @@
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <title>TMDB | Movie</title>
 </head>
-<body>
-  <nav class="navbar">
+<body style="background-image: -webkit-radial-gradient(
+#81070b,
+#07147788);
+">
+  <nav style="background-image: -webkit-radial-gradient(
+  #c04848,
+  #480048);
+" class="navbar">
     <div class="content">
       <div class="logo">
-        <a href="#">TMDB</a>
+        <a style="background-image: -webkit-radial-gradient(circle, rgb(226, 241, 16), rgb(247, 104, 21));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent; " href="#">TMDB</a>
       </div>
       <ul class="menu-list">
         <div class="icon cancel-btn">
@@ -27,8 +35,7 @@
         <i class="fas fa-bars"></i>
       </div>
     </div>
-  </nav>
-  <div class="banner"></div>
+  </nav><br><br><br><br>
     
     <header>
         <form  id="form">

@@ -32,7 +32,7 @@ $mail->SMTPOptions = array(
 
 //Provide username and password     
 $mail->Username = "TMDBmovierate@gmail.com";
-$mail->Password = "TMDBmovierate@12345";
+$mail->Password = "TMDBmovierate@123";
 
 //If SMTP requires TLS encryption then set it
 $mail->SMTPSecure = "tls";

@@ -28,6 +28,8 @@
              font-weight: 600;
              text-decoration: none;
             }
+			body{
+            background-image: url("img/SL-121019-25870-21.jpg") ;}
 			
 	</style>
 </head>

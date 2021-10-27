@@ -67,7 +67,9 @@ if (isset($_POST['submit'])) {
 			.container{
 				background-color:white;
 			}
-	
+			body{
+            background-image: url("img/SL-121019-25870-21.jpg") ;
+        }
 	</style>
 
 	<title> Recommendation|Register Form </title>
